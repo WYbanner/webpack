@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config build/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WYbanner/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WYbanner/webpack/issues"
+  },
+  "homepage": "https://github.com/WYbanner/webpack#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
